@@ -88,7 +88,7 @@
       "name": "n8n3",
       "credentials": {
         "n8nApi": {
-          "id": "B6dFwvbJeKm0nMRk",
+          "id": "REDACTED",
           "name": "n8n account"
         }
       }
@@ -108,7 +108,7 @@
       "name": "n8n2",
       "credentials": {
         "n8nApi": {
-          "id": "B6dFwvbJeKm0nMRk",
+          "id": "REDACTED",
           "name": "n8n account"
         }
       }
@@ -164,7 +164,7 @@
       "name": "n8n4",
       "credentials": {
         "n8nApi": {
-          "id": "B6dFwvbJeKm0nMRk",
+          "id": "REDACTED",
           "name": "n8n account"
         }
       }
@@ -263,7 +263,7 @@
         "resource": "credential",
         "name": "Google-Fabric",
         "credentialTypeName": "googlePalmApi",
-        "data": "{\n  \"host\": \"https://generativelanguage.googleapis.com\",\n  \"apiKey\": \"AIzaSyDXDdHvuCSc2E4nghDEq9hRiIeKwf0BF-M\"\n}\n",
+        "data": "{\n  \"host\": \"https://generativelanguage.googleapis.com\",\n  \"apiKey\": \"REDACTED\"\n}\n",
         "requestOptions": {}
       },
       "type": "n8n-nodes-base.n8n",
@@ -276,7 +276,7 @@
       "name": "n8n5",
       "credentials": {
         "n8nApi": {
-          "id": "B6dFwvbJeKm0nMRk",
+          "id": "REDACTED",
           "name": "n8n account"
         }
       }
@@ -310,7 +310,7 @@
       "name": "n8n",
       "credentials": {
         "n8nApi": {
-          "id": "B6dFwvbJeKm0nMRk",
+          "id": "REDACTED",
           "name": "n8n account"
         }
       }
@@ -541,11 +541,11 @@
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "af9ac988-0dab-48e2-bbfb-cf93fb2be126",
+  "versionId": "REDACTED",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "558d88703fb65b2d0e44613bc35916258b0f0bf983c5d4730c00c424b77ca36a"
+    "instanceId": "REDACTED"
   },
-  "id": "ebYjy3TLxdSvlYQf",
+  "id": "REDACTED",
   "tags": []
 }
